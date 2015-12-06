@@ -1,0 +1,69 @@
+![](//me.effectivemeasure.net/em_image)
+
+5.15 PM Tuesday, 17 January 2012
+
+  * ![RSS Feeds](http://cdn-wac.emirates247.com/res/img/icons/social/rss_16.png)
+
+![Facebook](/res/img/icons/social/facebook_16.png)
+![Twitter](/res/img/icons/social/twitter_16.png)
+
+//<![CDATA[ var ord=Math.random()*10000000000000000; document.write('<script
+type="text/javascript"
+src="http://ad.doubleclick.net/adj/business24-7/Offbeat;tile=1;sz=728x90;ord='
++ ord + '?"><\/script>'); //]]>//<![CDATA[ $(document).ready( function() {
+$("#menu_90026772 UL.menu LI").hover( function() { //Hover over event on list
+item $(this).siblings().removeClass('active');
+$(this).siblings().find("UL").hide(); //Hide the subnav
+$(this).addClass('active'); $(this).find("UL").show(); //Show the subnav },
+function() { //on hover out... $(this).removeClass('active');
+$(this).find("UL").hide(); //Hide the subnav
+$(this).siblings('.selected').addClass('active');
+$(this).siblings('.selected').find("UL").show(); //Show the subnav } ); } );
+//]]> $('#query').focus(function() { this.value = ''; }); //<![CDATA[ function
+showHideSend2Friend() { if($("#send2friend").is(":hidden")) {
+$("#send2friend").slideDown("slow"); } else {
+$("#send2friend").slideUp("slow"); } } var stf_validation = { rules: {
+stf_yourname: { required: true }, stf_yourmail: { required: true, email: true
+}, stf_friendsname: { required: true }, stf_friendsmail: { required: true,
+email: true } }, messages: { stf_yourmail: { required: "Please enter your
+email address", email: "Please enter your email address" }, stf_friendsmail: {
+required: "Please provide the recipient's email address", email: "Please
+provide the recipient's email address" } }, errorElement: "span",
+submitHandler: function(form) { $("#stf_submit").css("background-color",
+"#ccc"); $("#stf_submit").attr("disabled", true); form.submit(); } };
+$(document).ready( function() { /* "Error management" */ var stf_validator =
+jQuery("#stf_form").validate(stf_validation); if(window.location.hash ==
+"#send2friend" && "$send2friend.success" != "true") showHideSend2Friend(); }
+); //]]> //<![CDATA[ function showHideTnC() { if($("#tnc").is(":hidden")) {
+$("#tnc").slideDown("slow"); } else { $("#tnc").slideUp("slow"); } } function
+showCommentForm() { $("#commentSuccessBox").hide(); $("#comments-
+form-F48562").slideDown("slow"); } var validation = { rules: { comment_text: {
+required: true, maxlength: 500 }, comment_subject: { required: true },
+comment_author: { required: true }, comment_author_mail: { email: true } },
+messages: { comment_text: { required: "The comment text has to be specified.",
+maxlength: "???blog.error.commentTextMaxlength???" }, comment_subject: {
+required: "???blog.error.commentSubjectEmpty???" }, comment_author: {
+required: "The comment author has to be specified." }, comment_author_mail: {
+email: "Please provide a valid e-mail address" } }, errorElement: "span",
+submitHandler: function(form) { var submitButton =
+$("#submitCommentBlogPost-90026803"); submitButton.css("color", "#7A7A7A");
+submitButton.attr("disabled", true); $(form).ajaxSubmit({ cache: false, data:
+{ ot: "ot.AjaxPageLayout" }, success: function(response) {
+submitButton.css("color", "#000"); submitButton.attr("disabled", false);
+$(response).filter('#comments-form-container').each(function() { $('#comments-
+form-container').html($(this).html()); }); var validator = jQuery("#comments-
+form-F48562").validate(validation); // Only if the comment Success Box exists
+then we hide the form if($("#commentSuccessBox").length) { $("#comments-
+form-F48562").hide(); } }, failure: function() { submitButton.css("color",
+"#000"); submitButton.attr("disabled", false); }, clearForm: true }); } };
+$(document).ready(function() { /* Error management */ var validator =
+$("#comments-form-F48562").validate(validation); }); //]]>
+
+//<![CDATA[ ord=Math.random()*10000000000000000; document.write('<scr' + 'ipt
+type="text/javascript"
+src="http://ad.doubleclick.net/adj/business24-7/;tile=3;sz=160x600;ord=' + ord
++ '?"></scr' + 'ipt>'); //]]>
+
+//<![CDATA[ $(document).ready( function () { $("#side-column .middle-column-
+content").insertAfter("#main-column .skyscraper-ad"); } ); //]]>
+

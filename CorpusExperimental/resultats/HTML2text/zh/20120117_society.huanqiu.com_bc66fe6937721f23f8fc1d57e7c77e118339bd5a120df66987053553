@@ -1,0 +1,20 @@
+var userLocation = eval(getCookie('userLocation')); if(typeof(userLocation) ==
+'undefined') { document.writeln('<script type="text/javascript" src="http://ww
+w.huanqiu.com/location.php?action=domain&belongto=true"><\/script>'); }
+function getCookie(cookie) { if (document.cookie.length > 0) { cookie_begin =
+document.cookie.indexOf(cookie + "=") if (cookie_begin != -1) { cookie_begin =
+cookie_begin + cookie.length + 1 cookie_over = document.cookie.indexOf(";",
+cookie_begin) if (cookie_over == -1) cookie_over = document.cookie.length
+return decodeURI(document.cookie.substring(cookie_begin, cookie_over)) } }
+return "" } var tid = 2366562; var mid = 1; var cid = 243; var flag = 0;
+function showCommentNumber(str) { if(str!="") {
+document.getElementById("comment_number").innerHTML=str;
+document.getElementById("comment_num").innerHTML=str; } else {
+document.getElementById("comment_number").innerHTML="0";
+document.getElementById("comment_num").innerHTML="0"; } } function
+getCommentNumber() { var x=new XHR("showCommentNumber"); var
+url="http://"+document.domain+"/comment.php?job=get_comment_number&tid="+tid;
+x.get(url); } var random=parseInt(10*Math.random()); if(random>5) {
+document.getElementById("tuijian_cont1").style.display="none";
+document.getElementById("tuijian_cont2").style.display=""; }
+

@@ -1,0 +1,32 @@
+adcookieTag = (typeof adcookieTag !== 'undefined') ? (adcookieTag) : ('');
+dartad_tile = (typeof dartad_tile !== 'undefined') ? (dartad_tile + 1) : (1);
+var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailyn
+ews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=nanaimo
+dailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;pa
+ge=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=47829830?"; //
+script ad code with adcookie, used for debug document.write('<script
+language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ndn.com/n
+anaimodailynews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ro
+n;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews
+;sck=news;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=47829
+830?"><\/script>');  if(adid != "") // check if the ad should start a surround
+session only if a surround session has not yet started { surroundTag =
+"srnd="+adid; // setup the key-value for a surround session
+setSurroundCookie(adid); // store the surround session id in a cookie. }
+
+#logorow .weathercontent {float:right;} #logorow .logocontainer .logo
+{width:192px;} function doSearch() { var q =
+document.getElementById("q").value; if (q.length == 0) { alert("Please enter
+your search criteria"); return; } var type =
+document.getElementById("searchtype").value; switch (type) { case "newspaper":
+document.location.href="http://www.canada.com/nanaimodailynews/search_results.
+html?searchtype=0&searchfor=" + escape(q); break; case "marketplace": document
+.location.href="http://shopping.nanaimodailynews.canada.com/shared/search.aspx
+?s=" + escape(q); break; case "canada": document.location.href="http://www.can
+ada.com/findit/search/site/index.html?q=" + escape(q); break; case "fp":
+document.forms["searchform"].method="POST";
+document.forms["searchform"].action
+="http://www.fpinfomart.ca/ar/ar_cc_landing.php";
+document.getElementById("t1").value = q;
+document.forms["searchform"].submit(); break; } }
+

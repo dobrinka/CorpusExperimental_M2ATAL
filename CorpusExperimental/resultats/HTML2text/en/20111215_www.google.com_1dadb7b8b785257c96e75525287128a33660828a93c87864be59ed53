@@ -1,0 +1,89 @@
+Web Images Videos Maps **News** Shopping Gmail _More_ »
+
+Web History | Sign in
+
+Hosted by ![Google](/hostednews/img/small-google-logo.gif) Back to Google News
+
+Elderly care responsibility shared
+
+(UKPA) - 6 hours ago
+
+The NHS and local authorities will share responsibility for elderly care to
+end the practice of budgets being shunted between departments, it has been
+confirmed.
+
+Health Secretary Nicola Sturgeon said community health partnerships will be
+replaced by health and social care partnerships which will be the
+responsibility of both the NHS and councils.
+
+The Scottish Government says it is concerned about the practice of "cost-
+shunting", where disputes arise between NHS boards and local authorities over
+who should pay for the care of older people. The practice has seen people held
+up in hospital beds until the disputes are resolved.
+
+Ms Sturgeon said: "There is too much inconsistency in the quality of care for
+adults and older people across Scotland. There is too much variation in the
+level of resources invested in care locally by health boards and local
+authorities, and in the outcomes that those resources achieve.
+
+"Too many people are unnecessarily admitted to hospital or delayed there when
+they are clinically ready to leave hospital. And for too many people, the
+experience of moving between health and social care services as their care
+needs change is not smooth enough."
+
+She added: "We will introduce legislation to bring about a radical
+transformation of community health partnerships (CHPs).
+
+"CHPs, currently subcommittees of NHS boards, will be replaced by health and
+social care partnerships which will be the joint and equal responsibility of
+the NHS and local government."
+
+Labour health spokeswoman Jackie Baillie welcomed the proposed legislation but
+said Labour would have gone further.
+
+She said: "Our vision was for a national care service, as radical as the
+creation of the NHS, bringing fairness and raising standards in the provision
+of care.
+
+"The SNP would have you believe that we were creating another quango, another
+bureaucratic monolith, but that deliberately misunderstands the proposal.
+There is no new body, no new civil servants. This is about having national
+care standards for services that are delivered locally, a model that is
+currently used in the health service."
+
+Copyright (C) 2011 The Press Association. All rights reserved.
+
+#### Related articles
+
+  * Debt-ridden hospitals told to reform to save patients' lives   
+Telegraph.co.uk \- 2 days ago
+
+  * Scottish health services face serious funding pressures   
+Public Finance \- 5 hours ago
+
+  * Need to Improve Financial Condition of NHS Trusts   
+TopNews United States \- 9 hours ago
+
+  * More coverage (1) »
+
+function adsIframeHtml() { return ['<!DOCTYPE html><html><body style="margin:
+0pt; padding: 0pt;"><script type="text/javascript">', 'google_ad_client = "ca-
+google-hostednews-ukpa";', 'google_page_url =
+"http://www.google.com/hostednews/ukpress/article/ALeqM5hPO8vWxjC-
+y22DrzxxeHE7o85hnw?docId\x3dN0460841323909236306A";', 'google_language =
+"en";', 'google_ad_section = "article";', 'google_ad_format = "300x250_as";',
+'google_ui_version = 1;', 'google_ad_type = "text";', 'google_safe = "high";',
+'google_ad_height = "250";', 'google_ad_width = "300";', 'google_color_bg =
+"FFFFFF";', 'google_color_border = "0066CC";', 'google_color_line =
+"FFFFFF";', 'google_color_link = "003399";', 'google_color_text = "000000";',
+'google_color_url = "008000";', '<\/script><script src="http://pagead2.googles
+yndication.com/pagead/show_ads.js"><\/script><\/body><\/html>'].join('\n'); }  
+  
+getElement('ss-section').innerHTML = ''; var images = []; images.push(new
+SlideshowImage( "http://www.google.com/hostednews/ukpress/media
+/ALeqM5j4vSbh42eZWTlhAsIyVBb-s_PYDw?docId\x3dN0460951323911065571A", "Nicola
+Sturgeon said integrating health and social care will break down barriers" ));
+var show = new Slideshow(getElement('ss-section'), [getElement('hn-content'),
+getElement('hn-footer')], images, "/hostednews/ukpress/slideshow
+/ALeqM5hPO8vWxjC-y22DrzxxeHE7o85hnw", false, 0, "", "N0460841323909236306A" );
+

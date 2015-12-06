@@ -1,0 +1,20 @@
+  * Skip Navigation.
+  * Jump to Side Bar.
+
+Return to the homepage
+
+beloadcode.adsource = "http://ad.doubleclick.net/adj/belo.azfamily"+
+beloadcode.zoneName + ";dcopt=ist;sz=728x90;tile=1;pagetype=story;ord="+
+beloadcode.ordId + "?"; document.write('<script src="'+beloadcode.adsource+'"
+><\/script>')  <!-- if ((!document.images &&
+navigator.userAgent.indexOf('Mozilla/2.') >= 0) ||
+(navigator.userAgent.indexOf('WebTV') >= 0)) { document.write('<a href="http:/
+/ad.doubleclick.net/jump/belo.azfamily'+beloadcode.zoneName+';dcopt=ist;sz=728
+x90;tile=1;pagetype=story;ord='+beloadcode.ordId+'?"><img src="http://ad.doubl
+eclick.net/adj/belo.azfamily'+beloadcode.zoneName+';dcopt=ist;sz=728x90;tile=1
+;pagetype=story;ord='+beloadcode.ordId+'?" width="728" height="90" border="0"
+/></a>'); } //-->
+
+  *[-112.0300034]: -112.0300034
+  *[33.5019137]: 33.5019137
+

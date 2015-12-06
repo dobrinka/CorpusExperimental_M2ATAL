@@ -1,0 +1,10 @@
+document.write('<script language="JavaScript" src="//ad.doubleclick.net/adj/te
+g.ckau/kidj/a;subs=n;wsub=n;sdn=n;!c=21541808;dcopt=ist;pos=ldr_top;sz=728x90;
+tile=1;ord=' + random_ad_nr + '?" type="text/javascript"><\/script>')
+
+document.write('<a href="//ad.doubleclick.net/jump/teg.ckau/kidj/a;subs=n;wsub
+=n;sdn=n;!c=21541808;pos=sub_top;sz=223x90;tile=2;ord=' + random_ad_nr + '?"
+target="_self"><img src="//ad.doubleclick.net/ad/teg.ckau/kidj/a;subs=n;wsub=n
+;sdn=n;!c=21541808;pos=sub_top;sz=223x90;tile=2;ord=' + random_ad_nr +
+'?"><\/a>')
+

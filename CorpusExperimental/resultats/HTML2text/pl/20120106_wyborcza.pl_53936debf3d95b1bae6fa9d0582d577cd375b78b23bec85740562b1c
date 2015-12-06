@@ -1,0 +1,342 @@
+var profileBan; if (typeof profileCookie != 'undefined'){ profileBan =
+profileCookie; }else { profileBan = null; } var asParams; if (typeof n_pbt !=
+'undefined' && n_pbt != ''){ asParams = '&asParams=' + n_pbt; }else { asParams
+= ''; } document.write('<scr'+'ipt type="text/javascript" src="http://ad.advie
+w.pl/ad/GetBan?dir=/gazetawyborcza/&jsp=23&dx=76842&t='+(new
+Date()).getTime()+'&p='+profileBan+asParams+'"><\/script>');
+document.write('<scr'+'ipt type="text/javascript"
+src="http://bi.adview.pl/info/ban/banFunc.js"><\/script>'); putBan(2);var
+_sf_startpt=(new Date()).getTime()<!-- if (top.frames.length!=0)
+top.location=self.document.location; // --><!-- var pp_gemius_identifier = new
+String('Apg7Ka_gcNYT1jBafP32V7R3P50WYYeMaHKm5ELGb53.c7/arg=76842/sarg='+'|'+pr
+ofileCookie); //--> <!-- protokol = /^https/i; if (
+protokol.test(window.location.href) ) { document.writeln('<'+'scr'+'ipt
+type="text/javascript"
+src="https://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>'); } else {
+document.writeln('<'+'scr'+'ipt type="text/javascript"
+src="http://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>'); } //-->
+//<![CDATA[ var gazeta_pl = { documentParam: {"root": "/gazetawyborcza/" } ,
+topLayerNewsletterConfig: { uri: '', closed_cookie_name: '',
+signed_cookie_name: '' } }; //]]>  var _gaq = _gaq || []; var utmgif =
+'http://kropka.'+ window.location.hostname+'/__utm.gif';
+_gaq.push(['_setAccount', 'UA-426268-1']);
+_gaq.push(['_setCampaignCookieTimeout', 0]); _gaq.push(['_trackPageview']);
+_gaq.push(['second._setAccount', 'UA-426268-57']);
+_gaq.push(['second._setCampaignCookieTimeout', 0]);
+_gaq.push(['second._setLocalGifPath',utmgif]);
+_gaq.push(['second._setLocalRemoteServerMode']);
+_gaq.push(['second._trackPageview']); (function() { var ga =
+document.createElement('script'); ga.type = 'text/javascript'; ga.async =
+true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js'; var s =
+document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();  (function() { var tg = document.createElement('script'); tg.type =
+'text/javascript'; tg.async = true; tg.src =
+'http://analytics.gazeta.pl/tg.js'; var s =
+document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tg, s);
+})();
+
+  * Strona główna Gazeta.pl 
+  * Tokfm.pl 
+  * Poczta 
+  * Forum 
+  * Blogi 
+  * Gazeta Wyborcza 
+  * więcej
+
+    * Pogoda 
+    * Archiwum 
+    * Gry 
+    * Programy 
+    * Prezenty w Okazje.info 
+
+  * ![avatar](http://biv.gazeta.pl/i/obrazki/global/hat/avatar-blank.jpg) Zaloguj się
+
+![Wyborcza.pl](http://bi.gazeta.pl/im/0/12196/m12196990.jpg)
+
+Archiwum
+
+  * w serwisie
+  * w archiwum
+  * w internecie
+
+  * Witamy w Polsce
+
+![](http://bi.gazeta.pl/im/c9/33/d0/z13644745D.jpg)
+
+    * Fałszywa reporterka TVN grasuje po kraju. Za rachunki nie płaci
+  * Magazyn Świąteczny
+
+![](http://bi.gazeta.pl/im/b1/dc/d0/z13687985D.jpg)
+
+    * Głowacki: Gdy wygra PiS, równie śmiesznego miejsca nie będzie
+  * Piątek Ekstra
+
+![](http://bi.gazeta.pl/im/3a/be/d0/z13680186D.jpg)
+
+    * Dorwać prywaciarza. "Układ zamknięty" \- film niewygodny dla władzy?
+  * Duży Format
+
+![](http://bi.gazeta.pl/im/bb/85/d0/z13665723D.jpg)
+
+    * Bezdomna, ale żebrać nie będzie. Sprzedaje kwiaty, czyta "Quo vadis"
+  * Międzynarodowy
+
+![](http://bi.gazeta.pl/im/4f/ed/d0/z13692239D.jpg)
+
+    * Dlaczego w Szwecji nienawidzą kobiet. Czy to "efekt Breivika"
+  * Ale historia
+
+![](http://bi.gazeta.pl/im/5c/53/d0/z13652828D.jpg)
+
+    * Elżbieta Batory słynęła z urody. To pierwsza seryjna morderczyni?
+  * Opinie
+
+![](http://bi.gazeta.pl/im/d5/a6/d0/z13674197D.jpg)
+
+    * Pomnik Sprawiedliwych w miejscu żydowskiego cierpienia
+  * WYSOKIE OBCASY
+
+![](http://bi.gazeta.pl/im/74/a8/d0/z13674612D.jpg)
+
+    * Suknie balowe w obozie. Władze chciały zamęczyć i wyszydzić
+  * Sport.pl Ekstra
+
+![](http://bi.gazeta.pl/im/42/f6/d0/z13694530D.jpg)
+
+    * Rosnący brzuch zmienia perspektywę. Także w sporcie
+
+MATERIAŁY PŁATNE, DOSTĘPNE W SYSTEMIE PIANO
+
+Więcej
+
+  * Kraj
+    * Quiz polityczny
+    * Rozmowy Kublik
+  * Świat
+  * Kultura
+    * Książki
+    * Film
+    * Muzyka
+    * Sztuka
+    * Teatr
+    * Telewizja
+    * NIKE 2012
+  * Nauka
+    * Zdrowie
+    * Poczta Teremiski
+  * Opinie
+    * Komentarze
+  * Miasta
+    * Warszawa
+    * Białystok
+    * Bielsko-Biała
+    * Bydgoszcz
+    * Częstochowa
+    * Gorzów Wlkp.
+    * Katowice
+    * Kielce
+    * Kraków
+    * Lublin
+    * Łódź
+    * Olsztyn
+    * Opole
+    * Płock
+    * Poznań
+    * Radom
+    * Rzeszów
+    * Szczecin
+    * Toruń
+    * Trójmiasto
+    * Wrocław
+    * Zielona Góra
+  * Ale historia
+    * Wideo
+  * Duży Format
+  * Piątek Ekstra
+  * Świąteczny
+  * Międzynarodowy
+  * Nekrologi
+    * Nekrologi
+    * Wspomnienia
+  * Płatne
+wszystkie
+
+##  Jak urządzić świat?
+
+##  Trasy magiczne
+
+##  Sport.pl ekstra
+
+##  Kraj
+
+  * Wiadomości z regionow
+
+##  Świat
+
+##  Komentarze
+
+##  Kultura
+
+##  Nauka
+
+##  Gospodarka
+
+##  Sport
+
+##  Listy do "Gazety"
+
+##  Poradniki GW
+
+##  Akcje społeczne
+
+  * Młodzi odwagi
+  * Leczyć po ludzku
+
+##  Ale historia
+
+##  Duży Format
+
+##  Piątek Ekstra
+
+##  Nowa Świąteczna
+
+##  Wysokie Obcasy
+
+##  Witamy w Polsce
+
+##  Duży Kadr
+
+##  Wideo
+
+##  Archiwum Świątecznej
+
+  * Świąteczna krzepi
+  * Arka Noego
+  * Dwie na jednego
+  * Klub Goście Gazety
+
+## Wyborcza do wyboru
+
+  * Tablet
+  * Kindle
+  * Smartphone
+  * E-wydanie
+  * Prenumerata
+  * Archiwum
+  * Galeria okładek
+  * Presscliping
+
+##  Newsletter
+
+##  Kolekcje Gazety
+
+##  Reklama w GW
+
+##  Patronaty Wyborcza.pl
+
+**Wyborcza.pl****.biz****Wysokie Obcasy****Sport**
+
+   Gazeta Wyborcza &gt;  Teksty
+
+#  W Rzeszowie nie chcą szczepić
+
+Agata Kulczycka, Rzeszów
+
+28.12.2011 , aktualizacja: 28.12.2011 12:17
+
+A A A Drukuj
+
+![Grypa](http://bi.gazeta.pl/im/0/7092/z7092390Q,Grypa.jpg)
+
+Grypa (Fot. Filip Klimaszewski / Agencja Gazeta)
+
+Rodzice maluchów z rzeszowskich żłobków nie chcą ich szczepić przeciwko
+pneumokokom i meningokokom, mimo że warte kilkaset złotych szczepionki funduje
+miasto
+
+Program profilaktycznych szczepień dla dzieci z rzeszowskich żłobków zakończył
+się 15 grudnia. - Każdy rodzic, który zdeklarował, że chce zaszczepić swoje
+dziecko, miał taką szansę - mówi Renata Żukowska, dyrektorka wydziału zdrowia
+urzędu miasta. Warunki były niewygórowane: dziecko musiało być zameldowane w
+Rzeszowie, chodzić do żłobka, mieć ukończone dwa lata w przypadku pneumokoków
+lub rok - w przypadku meningokoków.  
+  
+To szczepienia nieobowiązkowe, rodzice mogli zaoszczędzić nawet 390 zł (140 zł
+- meningokoki i 250 zł pneumokoki). Zainteresowanie było duże: - Rodzice
+pytali, uzgadniali terminy i nigdy się na nie nie zgłaszali - mówi Elżbieta
+Moskal, pielęgniarka koordynująca szczepienia. Ze szczepień skorzystało 283
+dzieci, ok. 60 proc. tych, których rodzice zadeklarowali, że są
+zainteresowani.  
+  
+\- Mieliśmy szczepionki najlepszej jakości, a zakażenie tymi bakteriami jest
+niezwykle groźne. Oferowaliśmy dogodne warunki: rodzice mogli przychodzić od
+godz. 8 do 17 prawie codziennie - mówi Moskal.  
+  
+Akcja szczepień trwała w Rzeszowie trzy lata. W przyszłym roku Rzeszów z
+powodu niskiej frekwencji zrezygnuje z nich, w ich miejsce pojawią się badania
+tarczycy dla kobiet, które ukończyły 40 lat.  
+  
+
+![](http://gazeta.hit.gemius.pl/redot.gif?id=ByCa0SeNo4k.f_PE5HaKicbirfbkbQNSN
+Ip.7Ho1zB..W7/stparam=uafpoqdrfa)
+
+ZOBACZ TAKŻE
+
+  * ![Leki za pięć dwunasta](http://bi.gazeta.pl/im/1/10873/z10873001D.jpg)Leki za pięć dwunasta
+  * ![Uwaga na grypę](http://bi.gazeta.pl/im/1/2553/z2553151D.jpg)Uwaga na grypę
+  * ![Ludzie jak osy](http://bi.gazeta.pl/im/8/10772/z10772928D.jpg)Ludzie jak osy
+
+![](http://bi.gazeta.pl/im/3/5457/m5457453.gif)
+
+####  Hugo-Bader, Stasiuk, Waglewski... Nowy numer magazynu KONTYNENTY na
+czytniki i tablety
+
+####  | SPRAWDŹ!
+
+  *   * 0 Skomentuj
+  * Wyślij  
+e-mailem
+
+#  Skomentuj:
+
+Zaloguj się lub zarejestruj, aby dodać komentarz ![](http://gazeta.hit.gemius.
+pl/redot.gif?id=.K3gInw4.z9kYuuDKDqqwreP3wkkk69v7nUh6TzL_tL.j7/stparam=vccrfrs
+jgh)
+
+Aby ocenić zaloguj się lub zarejestrujX
+
+  * Na skroty:
+  * Gazeta.pl
+  * Wiadomości
+  * Sport.pl
+  * Biznes
+  * Gazeta Wyborcza
+  * Praca
+  * Program TV
+  * Polecamy:
+  * eMetro
+  * Dodaj ogłoszenie
+  * Reklama w Gazecie
+  * Nadaj nekrolog
+  * Wyniki Lotto
+  * Oferty nieruchomości
+
+  * Newsletter
+  * Facebook
+  * RSS
+  * Poczta
+
+  * Copyright (C) Agora SA
+  * O nas
+  * Staże u nas
+  * Reklama
+  * Prywatność
+  * Wszystkie artykuły
+  * Licencje
+  * **Poleć stronę**
+  * **Zgłoś błąd**
+
+![](http://www.googleadservices.com/pagead/conversion/1039774788/?label=8Xd7CI
+bFngIQxOjm7wM&guid=ON&script=0)
+

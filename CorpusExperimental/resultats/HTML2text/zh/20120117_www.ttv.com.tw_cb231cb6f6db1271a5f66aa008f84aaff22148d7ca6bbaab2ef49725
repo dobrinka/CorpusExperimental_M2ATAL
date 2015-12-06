@@ -1,0 +1,73 @@
+body { MARGIN: 0 0 0 0; } #NewsTopText { padding:3px 8px 0px 8px; text-
+align:left; height : 20px; /* Firefox, Chrome */ line-height : 20px; white-
+space : nowrap; /* IE */ *font-size : 18px; /* 20px * 0.8 = 18px */ font-
+family : Verdana, Arial, Helvetica, sans-serif, 新細明體, 細明體; FONT-SIZE: 13px; }
+#NewsTopText:after { content : "."; font-size : 1px; margin-left : -1px;
+opacity : 0; } #NewsTopText img { vertical-align : middle; } AC_FL_RunContent
+= 0; function clearform1(which){ if (which.value=="關鍵字查詢") which.value='' }
+
+InitGoogleSearchBox("google_searchbox", "/news/SearchElement.asp");
+
+mbrcolor="0066FF";mbr_init();if (AC_FL_RunContent == 0) { alert("這個頁面必須具備
+AC_RunActiveContent.js。請在 Flash 中執行「命令」選單中的「套用主動式內容更新」，將
+AC_RunActiveContent.js 複製到 HTML 輸出資料夾。"); } else { AC_FL_RunContent(
+'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.c
+ab#version=7,0,0,0', 'width', '1000', 'height', '135', 'src',
+'/news/10/top_news', 'quality', 'high', 'pluginspage',
+'http://www.macromedia.com/go/getflashplayer', 'align', 'middle', 'play',
+'true', 'loop', 'true', 'scale', 'noborder', 'wmode', 'transparent',
+'devicefont', 'false', 'id', 'top_news', 'name', 'menu', 'menu', 'true',
+'allowScriptAccess','sameDomain', 'movie', '/news/10/top_news', 'salign', ''
+); //end AC code }
+
+#navigation { Z-INDEX: 51; BORDER-BOTTOM: #4d6b89 4px solid; POSITION:
+relative; MARGIN: auto; WIDTH: 990px; HEIGHT: 28px; } #navigation DL { MARGIN:
+0; DISPLAY: inline } #navigation DD { PADDING: 0px; MARGIN: 0px; FLOAT: left;
+} #navigation A { BACKGROUND-IMAGE: url(/news/images/select_u.gif);
+BACKGROUND-REPEAT: no-repeat; WIDTH: 59px; HEIGHT: 25px; PADDING-TOP: 5px;
+DISPLAY: block; FONT-SIZE: 11pt; COLOR: #0066FF; TEXT-DECORATION: none; TEXT-
+ALIGN: center } #navigation A:hover { BACKGROUND-IMAGE:
+url(/news/images/select_s.gif); BACKGROUND-REPEAT: no-repeat; FONT-SIZE: 11pt;
+COLOR: #ffffff } #navigation DL DL { POSITION: absolute; BACKGROUND-COLOR:
+#ffffff; WIDTH: 450px; DISPLAY: none; FLOAT: left; PADDING-LEFT: 5px; PADDING-
+RIGHT: 5px; BORDER-TOP: #4D6B89 2px solid; *BORDER-TOP: #4D6B89 4px solid;
+BORDER-RIGHT: #4D6B89 1px solid; BORDER-BOTTOM: #4D6B89 1px solid; BORDER-
+LEFT: #4D6B89 1px solid } #navigation DL DL A { BORDER-BOTTOM: #ffffff 2px
+solid; BORDER-LEFT: #ffffff 1px solid; WIDTH: 450px; BACKGROUND: none
+transparent scroll repeat 0% 0%; COLOR: #0066ff; FONT-WEIGHT: normal; BORDER-
+RIGHT: #ffffff 1px solid; letter-spacing:normal; TEXT-ALIGN: left }
+#navigation DL DL A:hover { BACKGROUND-IMAGE: url(); BACKGROUND-REPEAT: no-
+repeat; COLOR: #ff0000 } .no_arrow A { BACKGROUND: none transparent scroll
+repeat 0% 0% } .no_arrow A:hover { BACKGROUND: #61aa2d }
+
+<!-- if (document.getElementById("") != null){
+identity=document.getElementById(""); identity.className="selected"; } // 選單數目
+var nav_item = 15; function nav_show(lv) { if(document.getElementById(lv)) {
+document.getElementById(lv).style.display='block'; } for(var
+i=0;i<nav_item+1;i++) { if(document.getElementById("sub_" + i) && "sub_" + i
+!= lv) { document.getElementById("sub_" + i).style.display='none'; } } } \-->
+
+FB.Event.subscribe('edge.create', function(response) { fblike(); } );
+FB.Event.subscribe('comment.create', function(response) { fbcommentcount(); }
+);
+
+<!-- google_ad_client = "pub-5342396684826977"; /* 300x250, 已建立 2008/11/18 */
+google_ad_slot = "6389628022"; google_ad_width = 300; google_ad_height = 250;
+//-->
+
+<!-- google_ad_client = "pub-5342396684826977"; /* 300x250, 已建立 2008/11/18 */
+google_ad_slot = "6389628022"; google_ad_width = 300; google_ad_height = 250;
+//-->
+
+limitLenGenKWsType=40;  
+  
+{lang: 'zh-TW'}  bust = Math.floor(1000000*Math.random());
+document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://dotmore.ttv.co
+m.tw/verify.aspx?w=18&t=1&hc=0066ff&charset=utf-8&ord='+bust+'?">');
+document.write('</'+'SCRIPT>');  var gaJsHost = (("https:" ==
+document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-
+analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));  try { var
+pageTracker = _gat._getTracker("UA-99803-1"); pageTracker._trackPageview(); }
+catch(err) {}
+

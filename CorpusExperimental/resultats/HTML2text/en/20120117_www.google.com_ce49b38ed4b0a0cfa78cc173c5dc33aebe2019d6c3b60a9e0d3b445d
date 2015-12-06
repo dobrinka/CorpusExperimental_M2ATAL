@@ -1,0 +1,84 @@
+Search Images Videos Maps **News** Shopping Gmail _More_ »
+
+Web History | Sign in
+
+Hosted by ![Google](/hostednews/img/small-google-logo.gif) Back to Google News
+
+Tidal energy turbine gets all-clear
+
+(UKPA) - 2 hours ago
+
+A tidal energy turbine in Co Down has been given the environmental all-clear,
+the developers have said.
+
+SeaGen in Strangford Lough has had no major impact on the marine life with no
+changes in the population of seals or porpoises.
+
+There have been "small scale" shifts in the behaviour and distribution of the
+creatures to avoid the turbines, the owners Marine Current Turbines Ltd said.
+The seabed surrounding the machine's foundations has recovered since it was
+installed in 2008.
+
+SeaGen can generate enough power for 1,500 homes.
+
+Environment Minister Alex Attwood said: "Marine Current Turbines has proved
+that the power of the seas can be harnessed in harmony with marine life.
+
+"The results of their work will give everyone greater confidence in realising
+the economic and environmental benefits that tidal and wave energy can offer
+to Northern Ireland, elsewhere in the UK and Ireland as well as other parts of
+the world."
+
+SeaGen works like an underwater windmill, with the rotors driven by tidal
+currents rather than the wind. Its operation has been limited to daylight
+hours but these restrictions have been lifted.
+
+The Royal Haskoning report was produced by an environmental consultancy with
+an independent science group.
+
+No major impact has been detected on the environment and there have been no
+changes in the abundance of seals or porpoises attributed to SeaGen, they are
+continuing to swim past the machine without hindrance.
+
+The owners said: "The only changes observed after three years of operation of
+SeaGen have been relatively small scale changes in the behaviour and
+distribution of seals and harbour porpoises, which suggests a minor degree of
+local avoidance of SeaGen."
+
+Copyright (C) 2012 The Press Association. All rights reserved.
+
+#### Related articles
+
+  * Lough generator given all-clear   
+BBC News \- 1 hour ago
+
+  * Tidal energy turbine gets all-clear   
+The Press Association \- 2 hours ago
+
+  * SeaGen gets wildlife "all clear"   
+reNews Europe \- 4 hours ago
+
+  * More coverage (1) »
+
+function adsIframeHtml() { return ['<!DOCTYPE html><html><body style="margin:
+0pt; padding: 0pt;"><script type="text/javascript">', 'google_ad_client = "ca-
+google-hostednews-ukpa";', 'google_page_url = "http://www.google.com/hostednew
+s/ukpress/article/ALeqM5g0h2eUK8U5XKH6O0Yf5IGOGeAnaA?docId\x3dN103513132680100
+1982A";', 'google_language = "en";', 'google_ad_section = "article";',
+'google_ad_format = "300x250_as";', 'google_ui_version = 1;', 'google_ad_type
+= "text";', 'google_safe = "high";', 'google_ad_height = "250";',
+'google_ad_width = "300";', 'google_color_bg = "FFFFFF";',
+'google_color_border = "0066CC";', 'google_color_line = "FFFFFF";',
+'google_color_link = "003399";', 'google_color_text = "000000";',
+'google_color_url = "008000";', '<\/script><script src="http://pagead2.googles
+yndication.com/pagead/show_ads.js"><\/script><\/body><\/html>'].join('\n'); }  
+  
+getElement('ss-section').innerHTML = ''; var images = []; images.push(new
+SlideshowImage( "http://www.google.com/hostednews/ukpress/media/ALeqM5iJcPlWbm
+tMh9TgssjlGALxyoal3g?docId\x3dN1035431326801571064A", "A report has found that
+the SeaGen tidal turbine in Strangford Lough has had no major impact on marine
+life" )); var show = new Slideshow(getElement('ss-section'), [getElement('hn-
+content'), getElement('hn-footer')], images,
+"/hostednews/ukpress/slideshow/ALeqM5g0h2eUK8U5XKH6O0Yf5IGOGeAnaA", false, 0,
+"", "N1035131326801001982A" );
+

@@ -1,0 +1,41 @@
+  * RTÉ.ie
+  * News
+  * Sport
+  * Entertainment
+  * Business
+  * RTÉ Player
+  * Television
+  * Radio
+  * More
+
+    * RTÉ Live
+    * RTÉ News Now
+    * RTÉ Radio Player
+    * RTÉ Aertel
+    * RTÉ Apps
+    * Weather
+    * Fashion
+    * Food
+    * Motors
+    * Travel
+    * Property
+    * Classifieds
+    * RTÉ Mobile
+    * Performing Groups
+    * Lotto
+    * Jobs
+    * About
+    * Shop
+    * RTÉjr
+    * TRTÉ
+    * Library &amp; Archives
+    * Feedback
+    * Text Updates
+    * All Access
+
+  * RTE.ie Google
+
+ord=Math.random()*10000000000000000; document.write('<script
+language="JavaScript" src="http://ad.ie.doubleclick.net/adj/RTE_NEWS_Index/RTE
+_NEWS_Index;sz=234x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+

@@ -1,0 +1,503 @@
+var profileBan; if (typeof profileCookie != 'undefined'){ profileBan =
+profileCookie; }else { profileBan = null; } var asParams; if (typeof n_pbt !=
+'undefined' && n_pbt != ''){ asParams = '&asParams=' + n_pbt; }else { asParams
+= ''; } document.write('<scr'+'ipt type="text/javascript"
+src="http://ad.adview.pl/ad/GetBan?dir=/wiadomosci/&jsp=23&dx=114873&t='+(new
+Date()).getTime()+'&p='+profileBan+asParams+'"><\/script>');
+document.write('<scr'+'ipt type="text/javascript"
+src="http://bi.adview.pl/info/ban/banFunc.js"><\/script>'); putBan(2);<!-- if
+(top.frames.length!=0) top.location=self.document.location; // --><!-- var
+pp_gemius_identifier = new String('olI66L9by3oJiG8hxj87V7QXDtYWcUO.yC6M2xM9Clz
+.M7/arg=114873/sarg='+'|'+profileCookie); //--> <!-- protokol = /^https/i; if
+( protokol.test(window.location.href) ) { document.writeln('<'+'scr'+'ipt
+type="text/javascript"
+src="https://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>'); } else {
+document.writeln('<'+'scr'+'ipt type="text/javascript"
+src="http://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>'); } //-->
+//<![CDATA[ var gazeta_pl = { documentParam: {"root": "/wiadomosci/" } ,
+topLayerNewsletterConfig: { uri: '', closed_cookie_name: '',
+signed_cookie_name: '' } , mobileInfo: { "isMobileDevice": false,
+"lightAdServer" : false } }; //]]>  var _gaq = _gaq || []; var utmgif =
+'http://kropka.'+ window.location.hostname+'/__utm.gif';
+_gaq.push(['_setAccount', 'UA-426268-1']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_setCustomVar',1,'nr_dzialu',114873,3]);
+_gaq.push(['_setLocalGifPath',utmgif]);
+_gaq.push(['_setLocalRemoteServerMode']); _gaq.push(['_setAllowAnchor',
+true]); _gaq.push(['_trackPageview']); (function() { var ga =
+document.createElement('script'); ga.type = 'text/javascript'; ga.async =
+true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js'; var s =
+document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();  (function() { var tg = document.createElement('script'); tg.type =
+'text/javascript'; tg.async = true; tg.src =
+'http://analytics.gazeta.pl/tg.js'; var s =
+document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tg, s);
+})();
+
+  * Strona główna Gazeta.pl 
+  * Wina 
+  * Tokfm.pl 
+  * Poczta 
+  * Forum 
+  * Blogi 
+  * Gazeta Wyborcza 
+  * więcej
+
+    * Pogoda 
+    * Gry 
+    * Programy 
+    * Okazje.info 
+
+  * ![avatar](http://biv.gazeta.pl/i/obrazki/global/hat/avatar-blank.jpg) Zaloguj się
+
+![Wiadomości Gazeta.pl](http://bi.gazeta.pl/im/5/9430/m9430735.png)
+
+  * w serwisie
+  * w Gazeta.pl
+
+Program TV
+
+Wyniki Lotto
+
+Alert24
+
+**605 24 24 24**
+
+Warszawa  8ºC
+
+Prognoza pogody
+
+  * Strona Główna
+  * Wiadomości
+    * Polska
+    * Polityka
+    * Świat
+    * Nauka
+    * Quiz wiedzy
+    * Policyjni
+    * Na żywo
+    * Infoblog
+    * Waszym zdaniem
+    * Deser.pl
+    * Zdjęcia
+    * Wideo
+  * Sport
+  * Biznes
+  * Kultura
+  * Kobieta
+  * Moto
+  * Technologie
+  * Plotki
+  * Prześlij nam informacje
+
+  * [SMOLEŃSK - 3. ROCZNICA]
+  * Papież Franciszek
+  * Związki partnerskie
+  * Deszcz meteorów w Rosji
+
+##
+
+### Trzecia rocznica katastrofy smoleńskiej: wielkie polityczne "święto" PiS-u
+
+  * **08:54 **Marta Kaczyńska w Krakowie: - Ja każda rodzina chcę wiedzieć, co się stało z moimi bliskimi. To podobne ...
+
+Czytaj najnowsze wpisy
+
+  *     * ![](http://bi.gazeta.pl/im/e2/6a/d0/z13658850F,Papiez-Franciszek-podczas-swojej-pierwszej-w-Watyk.jpg)
+
+###  Papież Franciszek przewodniczył mszy Wigilii Paschalnej
+
+  *     * ![](http://bi.gazeta.pl/im/a8/61/d0/z13656488F,Papiez-Franciszek-przewodniczy-Drodze-Krzyzowej-w-.jpg)
+
+###  Droga krzyżowa w Watykanie. Rozważania m.in. przeciwko ślepemu laicyzmowi
+oraz...
+
+  *     * ![](http://bi.gazeta.pl/im/a9/48/d0/z13650089F,Papiez-Franciszek-caluje-stope-jednego-z-wiezniow.jpg)
+
+###  Papież Franciszek umył stopy 12 nieletnim więźniom
+
+  *     * ![](http://bi.gazeta.pl/im/33/e9/ca/z13297971F,Malgorzata-Kidawa-Blonska--Rafal-Grupinski-i-Artur.jpg)
+
+###  Konserwatyści w PO o związkach partnerskich: Oświadczenie zamiast umowy
+
+  *     * ![](http://bi.gazeta.pl/im/8e/2b/d0/z13642638F.jpg)
+
+###  Gowin: Miliony kobiet boją się urodzić dziecko. To jest problem, a nie...
+
+  *     * ![](http://bi.gazeta.pl/im/0f/b3/d0/z13677327F,Poslanka-PiS-na-spotkaniu-z-klubem---Gazety-Polski.jpg)
+
+###  Pawłowicz ukarana naganą za wystąpienie w Mińsku i obrażanie
+Grodzkiej....
+
+  *     * ![](http://bi.gazeta.pl/im/f2/b6/cc/z13416178F,Meteor-nad-Czelabinskiem.jpg)
+
+###  Meteoryt nad Czelabińskiem. Prawosławny metropolita: W ten sposób Bóg
+upomina...
+
+  *     * ![](http://bi.gazeta.pl/im/0f/92/cc/z13406735F,Spadajacy-meteor-nad-Uralem--Dzis-nad-ranem-1-5-ty.jpg)
+
+###  NASA: Meteor nad Czelabińskiem jak kilkadziesiąt bomb atomowych
+
+  *     * ![](http://bi.gazeta.pl/im/37/a2/cc/z13410871F,Filmy-z-samochodowych-wideorejestratorow-podbijaja.jpg)
+
+###  Nagrały się meteoryty, katastrofy, czołgi... Dlaczego Rosjanie masowo
+instalują...
+
+Wiadomości &gt;  Archiwum
+
+#  Iran do USA: Nie wracajcie do Zatoki Perskiej, bo zaatakujemy
+
+jb, Reuters, PAP
+
+03.01.2012 , aktualizacja: 03.01.2012 11:13
+
+A A A Drukuj
+
+![Rakieta Ghader w czasie wystrzelenia. Jej nazwa oznacza po polsku:
+''zdolny''](http://bi.gazeta.pl/im/1/10904/z10904321Q.jpg)
+
+Rakieta Ghader w czasie wystrzelenia. Jej nazwa oznacza po polsku: ''zdolny''
+(Fot. Amir Kholousi AP)
+
+  * ![Wystrzelona rakieta Qader - miniatura](http://bi.gazeta.pl/im/4/10904/z10904324F,Wystrzelona-rakieta-Qader.jpg)
+  * ![Irański okręt - miniatura](http://bi.gazeta.pl/im/6/10897/z10897896F,Iranski-okret.jpg)
+  * ![Irańskie okręty wojenne podczas manewrów w Zatoce Perskiej - miniatura](http://bi.gazeta.pl/im/0/10898/z10898170F,Iranskie-okrety-wojenne-podczas-manewrow-w-Zatoce-.jpg)
+  * ![Lotniskowiec USA - miniatura](http://bi.gazeta.pl/im/7/10904/z10904617F,Lotniskowiec-USA.jpg)
+  * **Zobacz zdjęcia** (7)
+
+Szef irańskiej armii ostrzegł Stany Zjednoczone, że w razie powrotu ich
+lotniskowca do Zatoki Perskiej zostaną podjęte odpowiednie działania. - Iran
+nie będzie się powtarzał - zapowiedział Ataollah Salehi. Teheran miał właśnie
+zakończyć testy pocisków dalekiego zasięgu i rakiet typu ziemia-woda.
+
+Amerykański lotniskowiec musiał wycofać się z Zatoki Perskiej z powodu bardzo
+szeroko zakrojonych ćwiczeń floty irańskiej. Teraz, kiedy 10-dniowy pokaz siły
+dobiegł końca, Teheran ostrzega Waszyngton przed powrotem do zatoki - podała
+państwowa agencja prasowa Iranu, IRNA.  
+  
+
+Buzek o Iranie: Musimy być gotowi na najgorsze
+
+  
+  
+\- Radzę, zalecam i ostrzegam Amerykanów, aby nie wracali ze swoim
+lotniskowcem do Zatoki Perskiej, bo nie mamy w zwyczaju ostrzegać więcej niż
+raz - miał powiedzieć główny dowódca irańskiej armii, Ataollah Salehi.  
+  
+**Iran już po strategicznych ćwiczeniach**  
+  
+W poniedziałek tymczasem irańska telewizja podała, że podczas ostatniego dnia
+ćwiczeń na wodach wokół cieśniny Ormuz Teheranowi udało się z sukcesem
+przetestować pocisk dalekiego zasięgu Nur typu ziemia-ziemia. Wcześniej
+informowano o udanym teście rakiety Ghader typu ziemia-woda. - Rakieta
+skonstruowana przez irańskich ekspertów zniszczyła cele - powiedział rzecznik
+kierownictwa ćwiczeń, admirał Mahmud Musawi.  
+  
+Cytowany przez telewizję Musawi wyjaśniał w niedzielę, że pocisk Nur został
+wyposażony w "udoskonalony system antyradarowy i system wykrywania celu".
+Agencja AFP podaje, że taka rakieta ma zasięg 200 km. Celem ćwiczeń jest
+wypróbowanie zdolności irańskiej marynarki do zamknięcia tej strategicznej
+cieśniny, przez którą przepływa 40 proc. światowego morskiego transportu ropy.  
+  
+W obliczu możliwego zaostrzenia międzynarodowych sankcji wobec Iranu w związku
+z jego kontrowersyjnym programem atomowym Teheran zagroził pod koniec grudnia
+zablokowaniem cieśniny Ormuz. Stany Zjednoczone zadeklarowały, że do blokady
+takiej nie dopuszczą.  
+  
+
+** Iran próbuje zastraszyć świat. Wielkie manewry marynarki w Zatoce Perskiej >>  
+![Kliknij, by przeczytać
+artykuł](http://bi.gazeta.pl/im/9/10904/z10904329X,Belka---iranskie-
+manewry.jpg)**  
+  
+
+![](http://gazeta.hit.gemius.pl/redot.gif?id=ByCa0SeNo4k.f_PE5HaKicbirfbkbQNSN
+Ip.7Ho1zB..W7/stparam=uafpoqdrfa)
+
+ZOBACZ TAKŻE
+
+  * ![USA ostrzega Iran w "NYT": „W razie czego poślemy napastnicze okręty na dno"](http://bi.gazeta.pl/im/1/7081/z7081301D.jpg)USA ostrzega Iran w "NYT": "W razie czego poślemy napastnicze okręty na dno"
+  * ![Wywiad: Iran gotowy do ataku terrorystycznego w USA](http://bi.gazeta.pl/im/8/10903/z10903648D.jpg)Wywiad: Iran gotowy do ataku terrorystycznego w USA
+  * ![Iran potwierdza: „Wzbogacanie uranu w Fordo zostało rozpoczęte"](http://bi.gazeta.pl/im/6/10897/z10897896D.jpg)Iran potwierdza: "Wzbogacanie uranu w Fordo zostało rozpoczęte"
+  * ![Szef Pentagonu: Nie pozwolimy Iranowi zamknąć cieśniny Ormuz. Odpowiemy siłą](http://bi.gazeta.pl/im/0/10898/z10898170D.jpg)Szef Pentagonu: Nie pozwolimy Iranowi zamknąć cieśniny Ormuz. Odpowiemy siłą
+
+Zobacz więcej na temat:
+
+  * Iran
+  * USA
+  * Ataollah Salehi
+
+  *   * 813 Skomentuj
+  * Fajne to
+  * Smutne to
+  * Wkurza to
+  * Wyślij  
+e-mailem
+
+#  Komentarze (813)
+
+Zaloguj się lub zarejestruj, aby dodać komentarz ![](http://gazeta.hit.gemius.
+pl/redot.gif?id=.K3gInw4.z9kYuuDKDqqwreP3wkkk69v7nUh6TzL_tL.j7/stparam=vccrfrs
+jgh) ![](http://gazeta.hit.gemius.pl/redot.gif?id=.K3gInw4.z9kYuuDKDqqwreP3wkk
+k69v7nUh6TzL_tL.j7/stparam=wmdtjmjnog)
+
+  * najnowsze
+  * popularne
+
+  * cdmaar1974 
+
+rok temu
+
+Oceniono 16 razy ** 16 **
+
+Życzę wszystkim użytkownikom tego forum i sobie żeby nie było żadnej wojny.
+
+Odpowiedz
+
+  * radon13 
+
+rok temu
+
+Oceniono 29 razy ** 15 **
+
+Był juz taki jeden co ostrzegal AMerykanów - nazywal sie Saddam Hussejn !
+Miałą tez takeigos peca od propagandy który twierdził że AMerykanie nigdy nie
+wkrocza do Bagdadu a za plecami śmigaly mu Abramsy.
+
+Pokaż odpowiedzi (10)
+
+Odpowiedz
+
+  * pismaki_klamia 
+
+rok temu
+
+Oceniono 18 razy ** 12 **
+
+Marzy mi sie zmiana w prawie, aby osoby nawolujace do atakowania innych krajow
+obowiazkowo wsazac w kamasze i zrzucac na front. O ilez lepszy bylby swiat
+wtedy...
+
+Pokaż odpowiedzi (2)
+
+Odpowiedz
+
+  *   * tc2 
+
+rok temu
+
+Oceniono 18 razy ** 12 **
+
+Słuchajcie wszyscy. Lepiej wykupić trochę żarcia konserwowego i naoliwić rower
+na okoliczność benzyny za 10zł/L i biletu komunikacji 5 zł za 20minut. Na
+wiosnę posadzić warzywa nie kwiatki. I tłusto karmić psa, a nuż przyda się
+tucznik :--(
+
+Pokaż odpowiedzi (1)
+
+Odpowiedz
+
+  * grubymisiek1 
+
+rok temu
+
+Oceniono 42 razy ** 10 **
+
+Ajatollahy zachowują się jak osiedlowy łobuz, który prosi się o to, żeby
+dostać po mordzie. Jak dostanie łomot to będzie się grzecznie kłaniał. Taka
+parszywa wschodnia mentalność.
+
+Pokaż odpowiedzi (14)
+
+Odpowiedz
+
+  * calli 
+
+rok temu
+
+Oceniono 12 razy ** 8 **
+
+Przyzwoici Polacy i wszyscy ludzie dobrej woli na całym świecie życzą
+bratniemu narodowi irańskiemu i jego prezydentowi Mahmudowi Ahmadineżadowi
+osiągnięcia wszystkich, nawet najbardziej odległych, celów :)
+
+Pokaż odpowiedzi (1)
+
+Odpowiedz
+
+  * khair.el.budar 
+
+rok temu
+
+Oceniono 16 razy ** 8 **
+
+O rany, jak tak dalej pójdzie z testami rakiet irańskich, z których jedna
+"niszczy wiele celów", to Iran wyrzuci US Navy nie tylko z Zatoki Perskiej,
+ale i z Morza Śródziemnego, a może i z Atlantyku i Pacyfiku. I pomyśleć, że
+Polska za ciężkie pieniądze kupuje pociski norweskie, które są w stanie
+zniszczyć jeden cel. Podczas, gdy irańscy naukowcy opracowują za ułamek tych
+pieniędzy rakiety, które mogą zniszczyć przy jednym przelocie pół floty.
+
+Odpowiedz
+
+  * calli 
+
+rok temu
+
+Oceniono 27 razy ** 7 **
+
+Oto podsumowanie tego, o czym powinniśmy zapomnieć:  
+  
+1\. Wiosną 2009 r. Rose Gottemoeller, zastępca sekretarza stanu i główny
+negocjator Waszyngtonu ds. broni jądrowej, poprosiła Izrael o podpisanie
+Traktatu o Nierozprzestrzenianiu Broni Jądrowej - Izrael odmówił.  
+  
+2\. ONZ przyjęła rezolucję wzywającą Izrael do podpisania Traktatu i poddania
+się kontroli - Izrael odmówił.  
+  
+3\. MAEA poprosiła Izrael o podpisanie Traktatu i poddanie się kontroli -
+Izrael odmówił  
+  
+4\. Formalne zgłoszenie Iranu do MAEA planowanej budowy zapasowego obiektu
+podkreśla, że Iran stosuje się do Traktatu wcześniej przezeń podpisanego  
+  
+5\. Iran pozwala MAEA na inspekcję wszystkich swoich obiektów.  
+  
+6\. W przeciwieństwie do twierdzeń mających za zadanie zachowanie twarzy
+wydaje się, że USA i Izrael były zaskoczone oświadczeniem Iranu. Rozumowanie
+jest proste. Gdyby USA lub Izrael poinformowały o istnieniu nowego obiektu
+zanim Iran powiadomił MAEA, ustawiłoby to Iran w defensywie. Obecnie USA i
+Izrael wydają się nadrabiać, wątpiąc w prawdziwość oświadczeń Izraela, który
+"posiada wiedzę", że Iran stanowi zagrożenie nuklearne.  
+  
+7\. MAEA i wszystkie 16 agencji wywiadu USA są zgodne, że Iran nie buduje i
+nie posiada broni nuklearnej.  
+  
+8\. W 1986 Mordechai Vanunu ujawnił i pokazał zdjęcia tajnej izraelskiej
+fabryki broni jądrowej pod reaktorem w Dimonie.  
+  
+9\. Izrael spreparował takie same oskarżenia wobec Iraku, jakie czyni teraz
+wobec Iranu, co doprowadziło do zbombardowania przez Izrael elektrowni w
+Osirik. Po inwazji z 2003, międzynarodowi śledczy zbadali ruiny elektrowni w
+Osirik i nie znaleźli dowodów na istnienie tajnej fabryki broni.  
+  
+10\. ONZ opublikowało Raport Goldstone'a, oskarżający Izrael o 37 zbrodni
+wojennych i zbrodnie przeciwko ludzkości w Strefie Gazy na przełomie 2008/2009
+r. Izrael potępił raport jako "antysemicki" (choć sędzia Goldstone sam jest
+Żydem), a Stany Zjednoczone będą blokować skierowanie raportu do Trybunału
+Zbrodni Wojennych w Hadze, co sprawi, że rząd USA stanie się współwinnym.  
+  
+Teraz każdy z nas musi stać się Joe Wilsonem. Musimy stanąć i krzyczeć
+"kłamca" na każdego polityka i każdego kretyna w mediach, który zachęca do
+wojny w Iranie. Musimy zachowywać się tak, dopóki zrozumieją, że nie pozwolimy
+się oszukiwać. Izrael chce wysłać wasze dzieci na śmierć w Iranie, a WY
+jesteście jedynymi, którzy mogą je zatrzymać.
+
+Pokaż odpowiedzi (20)
+
+Odpowiedz
+
+  * znowu.to.samo 
+
+rok temu
+
+Oceniono 7 razy ** 7 **
+
+No to ładnie sie rok zaczął.......
+
+Odpowiedz
+
+Pokaż wszystkie komentarze (813) ![](http://gazeta.hit.gemius.pl/redot.gif?id=
+.K3gInw4.z9kYuuDKDqqwreP3wkkk69v7nUh6TzL_tL.j7/stparam=sgiqclpulk)
+
+Aby ocenić zaloguj się lub zarejestrujX
+
+![](http://gazeta.hit.gemius.pl/redot.gif?id=.K3gInw4.z9kYuuDKDqqwreP3wkkk69v7
+nUh6TzL_tL.j7/stparam=rmgoopirsl)
+
+Najczęściej czytane
+
+  * 1.
+
+### Pod rosyjską ambasadą o smoleńskiej katastrofie [WIDEO]
+
+  * 2.
+
+### Kaczyński: Wierzyć w raport Millera to dowód tego, że się nie myśli
+racjonalnie
+
+  * 3.
+
+### Tusk: W Polsce jest bardzo liczny zakon. Codziennie mówi o zamachu
+
+  * 4.
+
+### "Nasz Bocian": dokument episkopatu ws. in vitro zawiera kłamstwa
+
+  * 5.
+
+### USA: Nie mieli prawa do opieki, więc porwali dzieci i uciekli na Kubę
+
+  * 6.
+
+### Genetyk: Trudno uznać zygotę za człowieka z pełnią praw
+
+  * 7.
+
+### Troje dzieci w zamrażalniku, małżeństwo zatrzymane
+
+##  Wasze relacje, wasze zdjęcia
+
+![](http://bi.gazeta.pl/im/4/9441/m9441654.png)
+
+  *     * ![](http://bi.gazeta.pl/im/4a/72/d0/z13660746K,Atak-zimy-w-lany-poniedzialek.jpg)
+
+###  Wiosny nadal nie ma. Ślisko na drogach, problemy na lotniskach
+
+  *     * ![](http://bi.gazeta.pl/im/4/10810/z10810784R,Awaria-serwisu-Allegro.jpg)
+
+###  Awaria Allegro. "Kolejny atak na nasze serwery"
+
+![](http://bi.gazeta.pl/im/8/10481/m10481758,POCZTAKOPERTA.jpg)
+
+Najważniejsze Informacje dnia codziennie w Twojej skrzynce
+
+wpisz tutaj swoj e-mailPrzykładowy newsletter
+
+  * Na skroty:
+  * Gazeta.pl
+  * Wiadomości
+  * Sport.pl
+  * Biznes
+  * Gazeta Wyborcza
+  * Praca
+  * Program TV
+  * Polecamy:
+  * Miasta
+  * Wpadki
+  * Policja
+  * Program TV
+  * Pogoda
+  * Tematy
+  * Wideo
+  * Wyniki Lotto
+
+  * Newsletter
+  * Facebook
+  * RSS
+  * Poczta
+
+  * Copyright (C) Agora SA
+  * O nas
+  * Staże u nas
+  * Reklama
+  * Prywatność
+  * Wszystkie artykuły
+  * Licencje
+  * **Poleć stronę**
+  * **Zgłoś błąd**
+
+![](http://www.googleadservices.com/pagead/conversion/1039774788/?label=yMqvCI
+637QEQxOjm7wM&guid=ON&script=0)
+

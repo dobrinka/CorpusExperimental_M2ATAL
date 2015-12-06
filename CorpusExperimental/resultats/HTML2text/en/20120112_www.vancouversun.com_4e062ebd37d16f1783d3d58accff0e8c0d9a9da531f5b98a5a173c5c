@@ -1,0 +1,65 @@
+adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1; var
+dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/story
+;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=business;nk=print;pr=
+vs;ck=business;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag
++"ord=18164970?"; // script ad code with adcookie, used for debug
+document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick
+.net/N3081/adj/vs_bus.com/business/story;loc=theTop;loc=top;sz=468x60,728x90;d
+copt=ist;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile='
++dartad_tile+';'+adcookieTag+surroundTag+'ord=18164970?"><\/script>');
+if(adid != "") // check if the ad should start a surround session only if a
+surround session has not yet started { surroundTag = "srnd="+adid+";"; //
+setup the key-value for a surround session setSurroundCookie(adid); // store
+the surround session id in a cookie. } CDMScriptManager.load("http://www.vanco
+uversun.com/js/autocomplete/jquery.autocomplete.min.js");  function doSearch()
+{ var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,""); q
+= q.replace(/ /g,"+"); if (q.length == 0) { alert("Please enter your search
+criteria"); return; } var dname = document.domain; if ( dname=="driving.ca") {
+document.location.href="http://www.driving.ca/vancouver/search/search.html?q="
++ escape(q); } else {
+document.location.href="http://www.vancouversun.com/search/search.html?q=" +
+escape(q); } } //FAST WAVE 1 //add javascript to hook up search text box in
+header //set up autocomplete on search box in header
+jQuery(document).ready(function() { jQuery("#q").autocomplete("http://app.cana
+da.com/search/search.svc/autocomplete", { dataType: 'jsonp', parse:
+function(data) { var rows = new Array(); data = data.Terms; for(var i=0;
+i<data.length; i++){ rows[i] = { data:{Term:data[i]}, value:data[i],
+result:data[i] }; } return rows; }, resultsClass: "fast_wave_results",
+formatItem: function(row, i, n) { return row.Term; }, cacheLength: 0,
+extraParams: { format: "json" }, minChars: 1, max: 10, highlight:
+function(value, term) { var pos =
+value.toLowerCase().indexOf(term.toLowerCase()); return (pos > 0)?"<b>" +
+value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" +
+value.substring(pos + term.length) + "</b>":value.substring(0, term.length) +
+"<b>" + value.substring(pos + term.length) + "</b>"; }, scroll: false,
+selectFirst: false }); }); function handlePostLogin() { // change the login
+status bar to reflect a logged in state jQuery.getScript("http://"+window.loca
+tion.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBa
+r"); if((window.location+"").indexOf("/members/account-verified.html") > -1 ||
+(window.location+"").indexOf("/members/cancel-deletion.html") > -1 ||
+(window.location+"").indexOf("/members/reset-password-complete.html") > -1)
+window.location="/index.html"; else window.location.reload(); } function
+handlePostLogout() { // change the login status bar to reflect a logged out
+state jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.a
+shx?format=json&callback=renderLoginStatusBar");
+if((window.location+"").indexOf("edit-profile.html") > -1)
+window.location="/index.html"; else window.location.reload(); } function
+dologout() { // create the hidden logout iframe var src =
+'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true';
+jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none"
+frameborder="0" hspace="0" scrolling="no" src="' + src +
+'"></iframe>').appendTo('body'); } function renderLoginStatusBar(user) { var
+user = user.User; var statusBarHtml = ""; if (user.IsLoggedIn) { statusBarHtml
++= "<ul>"; statusBarHtml += " <li>Hi " + user.DisplayName + "</li>";
+statusBarHtml += " " + profileLink; statusBarHtml += " <li><a
+href=\"javascript:dologout();\">Sign Out</a></li>"; statusBarHtml += "</ul>";
+} else { statusBarHtml += "<ul>"; statusBarHtml += " <li><a href=\"javascript:
+light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log
+in</a></li>"; statusBarHtml += " <li><a href=\"javascript:light.mask(jQuery('b
+ody'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>";
+statusBarHtml += "</ul>"; }
+document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml; } jQ
+uery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?form
+at=json&callback=renderLoginStatusBar");
+

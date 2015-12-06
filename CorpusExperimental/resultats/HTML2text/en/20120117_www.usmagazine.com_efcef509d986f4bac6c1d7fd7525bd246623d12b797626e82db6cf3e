@@ -1,0 +1,53 @@
+
+
+###  US Weekly
+
+  * Home
+  * News
+  * Photos
+  * Videos
+  * Style
+  * Beauty
+  * Moms
+  * Body
+  * Entertainment
+
+![subscribe](/images/subscription_banners/btn_subscribe_137.png)
+
+2 For 1 Gift Customer Service
+
+  *   * Follow
+  * Newsletter
+  * ### 
+
+  * Subscribe
+  * |
+  * Golden Globes
+  * |
+  * Celeb Snack Tips
+
+  * Get 4 Free Issues
+  * Give A Gift
+  * |
+  * Customer Service
+
+// <![CDATA[ if (typeof ord=='undefined')
+{ord=Math.random()*10000000000000000;} if (typeof dart_tile_ord=='undefined'
+|| dart_tile_ord == 0) { dart_tile_ord = 1; } // added quantcast segment
+variable quantSegs //alert(quantSegs); document.write('<script
+language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.articles
+/celebrity-news;tile=' + dart_tile_ord + ';dcopt=ist;sz=728x90;' + quantSegs +
+'ord=' + ord + '?" type="text/javascript"><\/script>'); dart_tile_ord++; //
+]]>
+
+jQuery(document).ready(function() { var col2height = jQuery('.article
+.col2').height(); var col3height = jQuery('.article .col3').height(); if
+(col3height < col2height) { jQuery('.article .col3').height(col2height); } });
+//<![CDATA[ var cleared_comment = false; var fb_uid = USFBAPP.uid;
+jQuery('document').ready(function() { $('#comment-form
+#submit').click(submit_comment_helper);
+$("textarea#comment_text").click(function() { if (cleared_comment == false) {
+$("textarea#comment_text").val(''); cleared_comment = true; } }); var username
+= ''; var userpic = ''; var fb_url = '#'; if(fb_uid) { // logged in, hide no
+auth area, show auth area and comment form get_fb_info(uid) } }); //]]>
+

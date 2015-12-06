@@ -1,0 +1,84 @@
+if(!window.preloadShow4) document.write('<script src="http://ivy.pconline.com.
+cn/adpuba/show4?id=test.baidu.test1.;pc.kjdt.sywz.tl1-1z.;pc.kjdt.sywz.tl1-1y.
+;pc.kjdt.sywz.zu.tl1.;pc.kjdt.sywz.biaoti.;pc.kjdt.sywz.btxfwz.;pc.kjdt.sywz.b
+txfwz2.;pc.kjdt.sywz.ymsf.;pc.kjdt.sywz.ymxf.;pc.qz.ymxfxj.;pc.kjdt.sywz.zu.yc
+1.;pc.kjdt.sywz.youce2.;pc.kjdt.sywz.yc3.;pc.kjdt.sywz.yc4.;pc.kjdt.sywz.fdwz.
+;test.baidu.test2." class=" defer"><\/script>'); if(!window._addIvyID)
+document.write('<script src=http://www.pconline.com.cn/js/ivy.js><\/script>');
+</script class=combineAD> <script class=" defer" src="http://www.pconline.com.
+cn/global/c_header2010a/">showIvyViaJs("test.baidu.test1.")
+
+setTimeout(function(){var js=document.createElement("script"); js.src="http://
+ivy.pconline.com.cn/adpuba/show?id=pc.kjdt.sywz.test15.&media=js&channel=dynam
+ic&";document.getElementsByTagName("head")[0].appendChild(js);},999)
+
+document.write("<a href=http://count5.pconline.com.cn/newcount/admin/index.php
+target=_blank><img src=http://count5.pconline.com.cn/newcount/count.php?nameco
+de=news&subnamecode=wl&screen="+screen.width+"*"+screen.height+"&refer="+escap
+e(document.referrer)+" border=0 width=0 height=0 alt='' ></a>");
+
+showIvyViaJs("pc.kjdt.sywz.tl1-1z.")showIvyViaJs("pc.kjdt.sywz.tl1-1y.")  
+showIvyViaJs("pc.kjdt.sywz.zu.tl1.")
+
+showIvyViaJs("pc.kjdt.sywz.biaoti.")
+
+showIvyViaJs("pc.kjdt.sywz.btxfwz.")
+
+showIvyViaJs("pc.kjdt.sywz.btxfwz2.")  
+  
+showIvyViaJs("pc.kjdt.sywz.ymsf.")
+
+(function(){ scrollLazy('pc_open_share',function(){ var js =
+document.createElement("script"); js.src =
+"http://js.3conline.com/js/pc_open_share.js";
+document.body.insertBefore(js,document.body.firstChild); }); function
+scrollLazy($,C){var D=false;if(typeof
+document.getElementById($)!="object"||typeof C!="function")return;if(A().sTop+
+A().cHeight+200>=_($)){C();return}if(window.attachEvent)window.attachEvent("on
+scroll",B);else window.addEventListener("scroll",B,false);function
+B(){if(A().sTop+A().cHeight+200>=_($)&&!D){C();D=true}}function A(){return{cHe
+ight:(/CSS1Compat/.test(document.compatMode)?document.documentElement.clientHe
+ight:document.body.clientHeight),sTop:(/CSS1Compat/.test(document.compatMode)&
+&(document.documentElement.scrollTop==0)?document.body.scrollTop:document.docu
+mentElement.scrollTop)}}function _($){var A=document.getElementById($),_=0;whi
+le(A){_+=A.offsetTop;A=A.offsetParent}return _}} })(); function copyText(text)
+{ try { window.clipboardData.setData("Text", text); alert("已复制，使用Ctrl+V粘贴出来");
+} catch(e) { alert('您的浏览器不支持剪贴板复制\n请按Ctrl+C复制链接'); } } var shtml = ""; var
+isize=newsList.length; for(var i=0;i<isize;i++){ var title =
+newsList[i].title; var url = newsList[i].url; var area = newsList[i].area;
+shtml += '<li><a href="'+ url + '" target="_blank">' + area + '|' + title
++'</a></li>'; } document.write(shtml);
+
+document.body.insertBefore(document.createElement("script"),document.body.firs
+tChild).src = "http://cmt.pconline.com.cn/entry.jsp?url="+escape('http://news.
+pconline.com.cn/nw/1201/2655524.html')+"&referer="+escape(document.referrer)+"
+&title=KC网络电话龙年春节六大实惠型应用！&limit=&column=&redirect=&simple=";
+
+showIvyViaJs("pc.kjdt.sywz.ymxf.")
+
+showIvyViaJs("pc.qz.ymxfxj.")showIvyViaJs("pc.kjdt.sywz.zu.yc1.")showIvyViaJs(
+"pc.kjdt.sywz.youce2.")showIvyViaJs("pc.kjdt.sywz.yc3.")
+
+showIvyViaJs("pc.kjdt.sywz.yc4.")
+
+document.write(document.getElementById('adv_right1').value);
+
+if(document.getElementById('art_hot')){ var
+tmp=document.getElementById('tmp');
+tmp.parentNode.replaceChild(document.getElementById('art_hot'),tmp); }
+document.write(document.getElementById('adv_right2').value);
+document.write(document.getElementById('adv_right3').value); var
+wellObj=document.getElementById('art_well'); if(wellObj){ var nullCon =
+wellObj.getElementsByTagName('div')[1].getElementsByTagName('li'); if
+(nullCon.length<=0){wellObj.style.display='none';} var
+tmp=document.getElementById('art_well_to');
+tmp.parentNode.replaceChild(document.getElementById('art_well'),tmp); }  var
+ip=""; ip=document.getElementById("ipLocation").innerHTML;
+ip=ip.replace(/\r\n/g,""); ip=ip.replace(/^\s*|\s*$/g, ""); //alert(ip); var
+area_lmt_tag = getAreaTagByIpLocation(ip);
+
+showIvyViaJs("pc.kjdt.sywz.fdwz.")showIvyViaJs("test.baidu.test2.")_submitIvyI
+D();
+
+shareBox.init({show:["share","top"]});
+

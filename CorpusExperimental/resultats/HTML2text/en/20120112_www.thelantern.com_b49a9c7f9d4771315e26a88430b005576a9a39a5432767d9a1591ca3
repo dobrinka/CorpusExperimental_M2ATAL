@@ -1,0 +1,191 @@
+Top College News Subscribe to the Newsletter
+
+Home
+
+##
+
+Login | Register
+
+Receive campus news in your inbox. Sign up for the email edition.
+
+  * Home
+  * Campus
+    * Weather
+    * Crime Briefs
+  * Sports
+    * Football
+    * Soccer
+    * Volleyball
+    * Basketball
+    * Golf
+    * Cross Country
+    * Others
+  * [a+e]
+    * Game Solutions
+  * Opinion
+    * Letters
+  * Multimedia
+  * Classifieds
+  * Print Edition
+
+The Lantern  &gt; Opinion
+
+# Anti-smoker bans in workplaces are discriminatory
+
+##
+
+smoot.43@osu.edu
+
+**Published: **Sunday, January 8, 2012
+
+**Updated: **Sunday, January 8, 2012 22:01
+
+  *   * While reading _USA Today_, I stumbled upon an article about a new trend of prospective hospital employees who have tested positive for nicotine being rejected by potential employers. According to the article, these tobacco-hiring policies are reinforced to encourage a healthy lifestyle and reduce insurance premiums. The Centers for Disease Control and Prevention (CDC) estimates that smoking costs America $193 billion in health bills, all the while taking more than 400,000 lives annually.
+
+As a nursing student and a non-smoker, I fully understand the deadly
+consequences of prolonged tobacco use and appreciate the logistics behind
+smoking bans. As a hospital employee, however, I find this anti-smokers' ban
+to be discriminatory. Although I support a smoking ban within hospital
+perimeters and public areas, I cannot support employers discriminating against
+hard-working Americans who choose to smoke outside of work. In my opinion,
+discriminating against smokers will open a gateway to other unconstitutional
+bans and create a slippery slope. If employers start banning smokers from the
+workplace, who will they discriminate against next?
+
+One reason employers discriminate against smokers is to decrease insurance
+premiums. However, according to CDC, the No. 1 killer in America is heart
+disease. Increased rates of heart disease are closely related to the
+staggering obesity epidemic in America. Logically, it would make sense for
+employers to single out obese workers also. Like smoking, obesity can be
+controlled, yet if employers started to discriminate against obese workers,
+America would be outraged. How is this fair?
+
+Fortunately for smokers, the tobacco industry lobbied for smokers' rights and
+29 states now protect smokers' rights. The unfortunate news is that the
+federal government does not recognize smokers as a protected class and non-
+profit organizations and health care companies can still openly discriminate
+against those who choose to smoke in their own homes.
+
+Instead of focusing on what a person chooses to do outside of the workplace,
+employers should be focusing on the person's work ethic while on the job. The
+last time I checked, smoking -- unlike many other substances -- is considered
+legal. It is not the employer's job to govern what a person chooses to do with
+his or her own free time unless those activities are affecting the person's
+work performance.
+
+## **Recommended:** Articles that may interest you
+
+var OutbrainPermaLink=(window.location).toString(); var OB_Template = "cmn";
+var OB_demoMode = false; var OBITm = "1249506835342"; var OB_langJS
+='http://widgets.outbrain.com/lang_en.js'; if ( typeof(OB_Script)!='undefined'
+) OutbrainStart(); else { var OB_Script = true; var str = '<script
+src="http://widgets.outbrain.com/OutbrainRater.js"
+type="text/javascript"><\/script>'; document.write(str); } var articleId =
+'2738866'; //alert(articleId);
+//articleId=articleId.substring(articleId.indexOf("1."),
+articleId.lastIndexOf(".")); function clearField(el) { if (el.value ==
+el.defaultValue) el.value = ''; } function resetField(el) { if (el.value ==
+'') el.value = el.defaultValue; }
+
+var serverName='www.thelantern.com'; serverName=serverName.replace('www.','');
+document.write('<img src="http://'+serverName+':80/kaptcha.jpg" />');
+
+function enabledSubmit(){
+document.getElementById('submitComment').disabled=false;
+if(document.getElementById('kaptcha_answer')){ var
+kaptcha_value=(document.getElementById('kaptcha_answer')).value;
+if(kaptcha_value==""){ alert("Enter the characters in the image above:");
+document.getElementById('submitComment').disabled=true; return false; } } }
+function checkComment(){ if(document.getElementById('body')){ var
+comment_value=(document.getElementById('body')).value;
+if(!document.getElementById('accept').checked) alert("Please check the \"I am
+not posting spam\" box"); if( comment_value == ""){ alert("Please enter a
+comment."); document.getElementById('submitComment').disabled=true; return
+false; } } } function checkCaptcha(){
+if(document.getElementById('kaptcha_answer')){ var
+kaptchaEntry=(document.getElementById('kaptcha_answer')).value;
+if(kaptchaEntry==""){ alert("Enter the characters in the image above:");
+document.getElementById('submitComment').disabled=true; return false; } } }
+function enableButton(){
+document.getElementById('submitComment').disabled=false; } function
+getnewurl() { var formurl=(document.getElementsByName('formURL'))[0].value;
+if(formurl.indexOf("?")!=-1){
+formurl=formurl.substring(0,formurl.indexOf("?")); }
+(document.getElementsByName('formURL'))[0].value=formurl;
+(document.getElementsByName('formID'))[0].value="comments"; } function
+getlogout() { getnewurl(); window.location=
+"/jsp/logout.jsp?returnTo="+(document.getElementsByName('formURL'))[0].value;
+}
+
+var curUrl=document.URL; function refresh(){ if(curUrl.indexOf("&http")!=-1){
+curUrl=curUrl.substring(curUrl.indexOf("&http"));
+curUrl=curUrl.substring(curUrl.indexOf("&http")+1,curUrl.indexOf("="));
+curUrl=curUrl+"?formURL=refresh"; setTimeout("window.location=curUrl",1000);
+// javascript:location.reload(true); } }  javascript:refresh();
+
+$(document).ready(function(){ $("#tabs_article_comments > ul").tabs(); });
+
+document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.
+com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '23' +
+'&' + adGearSeg_Section + '&' + papername + '" width="468" height="' +
+(isChrome ? 68 : 60) + '" marginwidth="0" frameborder="0" vspace="0"
+hspace="0" scrolling="no" seamless></iframe>');
+
+document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.
+com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '12' +
+'&' + adGearSeg_Section + '&' + papername + '" width="300" height="' +
+(isChrome ? 258 : 250) + '" marginwidth="0" frameborder="0" vspace="0"
+hspace="0" scrolling="no" seamless></iframe>');
+
+document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.
+com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '22' +
+'&' + adGearSeg_Section + '&' + papername + '" width="300" height="' +
+(isChrome ? 258 : 250) + '" marginwidth="0" frameborder="0" vspace="0"
+hspace="0" scrolling="no" seamless></iframe>');  
+  
+var templateNo="/se/template1.custom.css"; if(templateNo.indexOf("template9")
+== -1) { document.writeln('<iframe id="adframe" src="http://admanager.collegep
+ublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&'
++ '21' + '&' + adGearSeg_Section + '&' + papername + '" width="160" height="'
++ (isChrome ? 608 : 600) + '" marginwidth="0" frameborder="0" vspace="0"
+hspace="0" scrolling="no" seamless></iframe>'); } else
+if(templateNo.indexOf("template9") > -1 && 1 == 0) { document.writeln('<iframe
+id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_sou
+rce_cmn.html?' + adGearSeg_adPaperID + '&' + '21' + '&' + adGearSeg_Section +
+'&' + papername + '" width="160" height="' + (isChrome ? 608 : 600) + '"
+marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"
+seamless></iframe>'); }
+
+document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.
+com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '31' +
+'&' + adGearSeg_Section + '&' + papername + '" width="300" height="' +
+(isChrome ? 258 : 250) + '" marginwidth="0" frameborder="0" vspace="0"
+hspace="0" scrolling="no" seamless></iframe>'); var gaJsHost = (("https:" ==
+document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-
+analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));  try { var
+pageTracker = _gat._getTracker("UA-3435891-1"); pageTracker._trackPageview();
+} catch(err) {}
+
+document.write(new Date().getFullYear());document.write(webserverpath); var
+short_domain="http://www.thelantern.com"; var matchbin_domain =
+"http://directory." + short_domain.substring(short_domain.indexOf("www.")+4,
+short_domain.length);
+
+document.writeln('<a href=' + matchbin_domain + '><b>CMN Local Business
+Directory</b></a> powered by:');
+
+var paperNameFooter = "The_Lantern".toLowerCase(); paperNameFooter
+=paperNameFooter.replace(/^\s+|\s+$/g,""); var articleId = ""; articleId =
+"article 1.1746";articleId =
+articleId.substring(articleId.indexOf("article")+8, articleId.length);
+document.write("<a href=\"/" + "Privacy Policy".replace(/ /gi,
+"-").replace("(", "").replace(")", "").replace("/", "-").replace("/", "-") +
+"-" + articleId + "\" >" + "Privacy Policy" + "</a>"); articleId = "article
+1.1747";articleId = articleId.substring(articleId.indexOf("article")+8,
+articleId.length); document.write("|"); document.write("<a href=\"/" + "Terms
+of Use".replace(/ /gi, "-").replace("(", "").replace(")", "").replace("/",
+"-").replace("/", "-") + "-" + articleId + "\" >" + "Terms of Use" + "</a>");
+
+showNetworkBanner(41);
+
